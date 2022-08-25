@@ -1,0 +1,4 @@
+project: PROJECT
+target: kimgio_ani_fuzzer
+cmds:
+- cmd: /out/kimgio_ani_fuzzer
